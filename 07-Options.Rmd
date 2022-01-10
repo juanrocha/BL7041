@@ -1,0 +1,540 @@
+---
+output: 
+  bookdown::html_document2:
+    global_numbering: FALSE
+## Note: remember to reference figures in bookdown, you need \@ref(fig:lable) using parentheses. The label is the name of the chunk
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+# Options
+
+This Topic aims to highlight the options available for invoking change.
+Invoking change requires human agency, i.e., the intent and ability to influence others and affect the natural system.
+We need to begin this with a disclaimer: *The amount of social and economic tools available for inducing change is diverse, and no course-material could capture them all*.
+Here we provide a minimal selection of some of the most prominent options for contemporary change-making for sustainability.
+
+To invoke change is captured under governance and management (and we will look more closely into agency in the next part of the course).
+The main tools for governance and management are institutions, the general social structure that affect all forms of repetitive and structured interactions between people.
+One important class of institutions is economical, such as markets and taxes/subsidies, which we will look at more closely because they are so commonly used.
+While governance often has the feel of top-down influence, stakeholder participation is part of the options for governance.
+Given minimal rights to organize for local stakeholders, stakeholder participation can also be initiated from the local arena; something referred to as *collective action*.
+Of course, even with no assigned rights to invoke change, collective action can challenge this lack of formal rights.
+
+In this Topic, you will be exposed to a small subset of governance tools.
+After reading this topic, you should be able to define governance and understand how management relates to this.
+You should know what the main criteria are for good governance are, i.e.:
+
+-   Efficiency
+
+-   Effectiveness
+
+-   Equity
+
+-   Legitimacy
+
+Also, you should have an understanding of the dynamics of governance as well as how institutions form in action arenas.
+Regarding institutions, you should have a good idea of the components of institutions and how one can use this knowledge to compare different institutions.
+
+Many sustainability issues are being addressed using markets, such as carbon emission trade, and you need to understand how the market dynamics can regulate supply and demand.
+The most common form of directing behavior for sustainability by governments are taxes and subsidies.
+Ensure you have thoroughly understood the dynamics of changing the incentives to achieve either reductions or increases in undesired and desired actions, respectively.
+Lastly, stakeholder participation, whether government-initiated or by collective action processes, is becoming a key, ground-based approach to solving local sustainability problems.
+You should have understood its intended goal and the potential problems, and the different perspectives of outcomes from the social and natural system domain.
+
+## Governance
+
+Governance is the actions and processes that arise from interactions between (groups of) people.
+These actions give rise to persistent practices such as institutions (including norms and treaties) and organizational structures.
+These institutions and structures, in turn, affect people's behavioral patterns.
+Such structures can be formal institutions, e.g., laws with formal sanctioning, or informal norms embedded in the community and enforced through social sanctioning (see institutions).
+
+Governance is a process that goes beyond government and involves both state and non-state actors.
+There are often several "governance systems" at play (see multilevel governance section).
+Governance is a broad topic that we only touch briefly here.
+In the setting of sustainability science, we will look at it as a process to achieve the goal of sustainability by changed practices, such as institutions that affect behavioral patterns.
+This involves a normative perspective in which we focus on governance as a solution to a problem.
+But "how to govern," or what criteria to use, is a multifaceted concept.
+Here, we address this by using four general criteria for governance:
+
+-   Efficiency: How to achieve the change in practices with the least effort or costs
+
+-   Effectiveness: How persistent and inclusive are the practices.
+
+-   Equity: How are the cost and benefits distributed
+
+-   Legitimacy: How acceptable are the practices to all affected.
+
+These four broad criteria are deeper discussed, e.g., in Adger et al. (2003).
+I'll make a quick overview here.
+
+To achieve **efficiency**, the transaction costs need to be reduced, which means reducing the costs of spreading information and monitoring an institution.
+Markets are one method that is sometimes used.
+Transferable licenses, where the right to use a resource can be sold and bought in a market, generates persistent value associated with the license.
+This value only persists if no one cheats, as a license for a depleted resource is not worth much.
+Thus, cheating directly affects every license holder and creates incentives for monitoring and sanctioning within a local community, often negating the need for external management.
+
+**Effectiveness** concerns how motivated people are to adjust their behavior.
+Knowledge plays a key role here.
+Understanding why and how a practice can generate benefits is motivational.
+Unfortunately, many regulations are made by governing entities that lack local knowledge.
+Thus perceived benefits are socially or spatially far apart between local actors and the governing entity, leading to severe lack of compliance.
+
+**Equity** concerns the distribution of benefits and costs.
+Taxes and subventions are, for example, checks and balances to transfer external costs and benefits between actors generating externalities and actors affected by these.
+
+**Legitimacy** is often addressed with inclusiveness in the decision-making process, i.e., by stakeholder participation.
+Often, marginalized groups lack resources to make their voice heard.
+Many NGOs take the role of amplifying these voices.
+Still, in sensible governance systems, procedures may (should) exist to provide a way to become a legitimate actor a decision process that are affecting one's livelihood.
+
+### Dynamics of governance and institutions
+
+With persistent practices mentioned above, I do not mean that practices are unchangeable either in form or compliance.
+Practices and institutions result from repeated interactions and are thus subject to change due to selective processes, e.g. changes in how they are perceived, formulated or the degree people choose to behaviourally comply with them (conformity).
+Thus, rules and norms evolve over space, time, or organizational level and their effect on people's behavior varies accordingly (Ostrom 2009).
+
+### Multilevel Governance Systems
+
+Governance occurs through processes and institutions operating at and between, varying geographical and organizational scales involving a range of actors with different forms of authority (Duit & Galaz 2008).
+At times you will come across the term collaborative governance in the sustainability literature.
+This term refers to a process similar to stakeholder participation and co-management but from a different perspective.
+Often, higher-level agencies initiate collaborative governance, inviting both private and public stakeholders in a dialog of vision sharing and understanding.
+
+### Collective action
+
+Collective action refers to the mobilization of a group of people for a common goal fueled by perceived injustice, a sense of identity, and a belief that action can provide relief.
+The creation of a democratic state organization from dictatorships is one example of this.
+Others are the struggle for recognized rights by indigenous people or the mobilization of local fishermen for regulations to prevent harvests from external actors.
+Collective action thus is the bottom-up precursor of governance.
+
+## Management
+
+**Management** relates to the goal-directed decisions people make when interacting with a shared resource.
+In its simplest sense, there is one group or one individual with a shared objective.
+With this definition, management is a subset of governance with fewer stakeholders and overlapping objectives.
+Natural resource management means influencing the way people and landscapes interact.
+
+Management can be *"put in place"* by creating a national park, assigning positions of authority, or monitoring institutions.
+Management can also arise spontaneously among groups of people that share natural resources.
+Another term for this is *collective action*.
+
+Management failures can occur when:
+
+1.  the resource is not efficiently and sustainably used
+
+2.  the use of the resource generates inequalities that are detrimental to society
+
+3.  the use of the resource generates negative externalities.
+
+In 2012, Elinor Ostrom received the Nobel prize in economics for analyzing institutional solutions that address management failures, or the *"tragedy of the commons"*.
+Solutions to management failures include co-management, stakeholder participation, and dialog, as well as governance.
+
+### Different uses of the term "Management."
+
+Management is often used by people who work close to the focal resource, and one therefore often also talks about local management.
+Ecologists working with sustainability often begin by focusing on management and how to best interact with the resource.
+However, often the solution to sustainability issues lies in how to manage people, i.e., governance.
+The concept of management is also used in business and has a notion of *"taking control."* Taking control requires a full understanding of the system, which is seldom the case.
+Therefore adaptive management has been commonly used to describe a more learning by doing approach.
+
+### Co-management
+
+Co-management involves bringing in multiple actors with potentially diverging goals and thus conflicting interests: co-management = management + stakeholder participation.
+A prerequisite for co-management are minimal rights to organize and thus creating the conditions for co-management can be a form of governance.
+
+## Institutions
+
+> *"Institutions are any kind of practices or organizations put in place or emergent from past interactions that affect all forms of repetitive and structured interactions between people."*
+
+Rules, norms, shared strategies (habits relating to interactions with other people) fall under the umbrella of institutions.
+They become *"weaker"* in the order of rules \> norms \> strategies.
+The degree of sanctioning when breaking a strategy is less than for violating a norm.
+Institutions are human constructs, and they change over time due to reinterpretation or rewriting.
+
+Some examples:
+
+-   Markets are institutions that organize the transfer of goods and services
+
+-   Laws are rules made by the governing body and enforced with sanctioning
+
+-   Norms can be unspoken and do not have formal sanctioning.
+    An example is cleaning kitchen after you use it at work.
+    It is expected, but usually there is no formal "kitchen police" even though social pressure can be just as effective
+
+-   A strategy: If we all would agree on that if a phone call gets interrupted, only the initial caller calls back, many frustrations with people both trying to call back at the same time might be avoided.
+
+To dissect the nature of institutions, let's look at the components of a rule:
+
+-   It defines for whom the rule applies
+
+-   It has request, i.e. must, may or must not
+
+-   It has an aim, e.g. to make people stop their cars at red light.
+
+-   It defines under what conditions
+
+-   It sets out the consequence of not conforming to the rule
+
+For a formal enforced rule all 5 components must be known.
+Typically, for a norm, the last (5: consequence) is often not defined.
+For a strategy, the second (2: request) is also omitted.
+Think of a rule that you obey, and try to "dissect" it according to these components.
+Why would you dissect a rule?
+Because, it makes it easier to compare how rules are enforced in different situations or areas around the world.
+For example, there are hundreds of different rules on how one can gather wood for fuel in communal used forests.
+Being able to compare exactly how they differ and what aspects of rules lead to sustainable use can be very valuable.
+
+### The institutional dynamics framework
+
+Elinor Ostrom, the Nobel laureate in economics 2009, termed situations in which people organize to regulate behavior as action arenas.
+This term is not commonly used in all disciplines of sustainability science.
+Here we define it as whenever individuals interact, exchange goods, or solve problems, i.e., most social interactions.
+
+```{r action-arena, echo = FALSE, out.width='100%', fig.align='center', fig.cap="A formal diagram of an action arena"}
+knitr::include_graphics(path = "figures/ActionArena.png")
+```
+
+When people interact in situations that involve institutions, they can make choices about follow these or not.
+The choice depends on many things, such as the perceived legitimacy of the institutions, the people involved in sustaining (or creating) it, and the conformity among people affected by it.
+In institutional analysis, one often rephrases this as a game that is played repeatedly between participants.
+The cost/benefits of the different choices depend on personal preferences, knowledge, and experience, as well as the anticipated responses of other participants.
+Thus, the action arena is a complex adaptive system itself, and institutions can evolve in both form and efficiency based on the choices made by all the participants.
+
+```{r action-situation, echo = FALSE, out.width='100%', fig.align='center', fig.cap="A simple diagram showing how participants in an action arena are assigned to positions, such as leaders, monitors or sanctioners (e.g. police) and how actions are assigned to these positions. These positions then participate in the action arenas applying their actions to affect outcomes"}
+knitr::include_graphics(path = "figures/ActionSituation.png")
+```
+
+An essential part of institutions is to structure society.
+In most countries today, we have constitutions (i.e., institutions) that determine how everyone in the society can participate in selecting a temporary leader (a position) and how the accountability of these leaders is handled.
+With positions come associated actions, such as legislation or enforcement.
+In smaller communities, these can be informal, e.g., when people rise to the task of leading others.
+
+### Rules for managing the tragedy of the commons
+
+The holy grail of sustainability science has been the tragedy of the commons.
+How can we sustainably use a shared resource without strong laws or privatization?
+Elinor Ostrom and her co-workers analyzed many successful and unsuccessful cases and came up with eight design principles for governance that increase the chance of success:
+
+1.  **Clearly Defined Boundaries:** The boundaries of the resource system (e.g., irrigation system or fishery) and the individuals or households with rights to harvest resource units are clearly defined.
+
+2.  **Proportional Equivalence between Benefits and Costs:** Rules specifying the amount of resource products that a user is allocated are related to local conditions and to rules requiring labor, materials, and/or money inputs.
+
+3.  **Collective-Choice Arrangements:** Most individuals affected by harvesting and protection rules are included in the group who can modify these rules.
+
+4.  **Monitoring:** Monitors, who actively audit bio-physical conditions and user behavior, are at least partially accountable to the users and/or are the users themselves.
+
+5.  **Graduated Sanctions:** Users who violate rules-in-use are likely to receive graduated sanctions (depending on the seriousness and context of the offense) from other users, from officials accountable to these users, or from both.
+
+6.  **Conflict-Resolution Mechanisms:** Users and their officials have rapid access to low-cost, local arenas to resolve conflict among users or between users and officials.
+
+7.  **Minimal Recognition of Rights to Organize:** The rights of users to devise their own institutions are not challenged by external governmental authorities, and users have long-term tenure rights to the resource.
+
+8.  **Nested Enterprises:** (For resources that are parts of larger systems) Appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises.
+
+Source: Based on Ostrom (1990: 90).
+
+Further reading Your one-stop-document for reading up on institutional dynamics can be found in the wonderful [text book](https://sustainingthecommons.org/) by John M. Anderies and Marco Janssen a tribute to Elinor Ostrom provided for free!
+
+## Markets
+
+Markets are one of the most powerful mechanisms of human development.
+Markets provide incentives for technical and social innovation, increasing the efficiency of production and provide income redistribution.
+Markets and the economy at large is a complex adaptive system.
+Markets are driven by local choices that affect aggregate variables (like prices), which in turn affect individual behavior.
+Markets are, to a large degree, self-organizing.
+This self-organization does not necessarily conform to the goals of human welfare.
+That is why markets need to be directed.
+Such methods are, for example, taxation/subsidies and institutions.
+
+We will here focus on markets that use money as a means of exchange, but other methods, such as barter, are also possible.
+We will also focus on competitive markets with sufficiently many consumers and suppliers i.e. were there is no dominance of single actors.
+To understand the benefits as well as the problems of markets, we will first look to understand an ideal markets, and then explore what happens when ideal situations are not valid.
+Ideal here means that resources are redistributed efficiently and egalitarian (i.e. not making any choices that are dependent on the characteristics of any particular person, all are equal).
+This does not imply that the outcomes are just, ethical or equitable!
+We will address these issues as well as market failures later.
+
+### Ideal markets?
+
+What is an ideal market and are ideal markets to be considered a good thing?
+Given the loose definition of markets above, one might at first be inclined to think so.
+Yet, this need not be the case.
+In the late history of economic thinking, economists have preferred to distinguish normative economics ("what ought to be" in economic matters) from positive economics ("what is").
+In the definition above, we made a normative value judgment when we related the market outcome to that of a benevolent planner, i.e., the market serves a goal.
+How are we to determine what is benevolent?
+Should developing countries contribute equally to rich countries when combating climate change?
+The answer is subjective and may depend on who you ask.
+The reason why economists have tried to separate the two is that it becomes clear what part of a suggested policy is related to value judgments (normative) and what part is actual observations (positive).
+Hence, whether to consider an ideal market as a good thing, depends on if you agree with the underlying ethics of market allocation.
+This is the income/wealth distribution of the economy.
+Regardless of your opinion, understanding ideal markets is the first step to understand how markets could improve or worsen matters when households, communities, and government doesn't work so well.
+Whether you like it or not, markets are incredibly efficient for aggregating distributed information!
+
+#### Demand side
+
+In a market, we have two main parties, the supplier who produces and the buyers that create the the demand.
+The suppliers are often enterprises, and the buyers are households or other enterprises.
+To understand how prices affect supply and demand, we need to use the concept of utility or usefulness.
+This is the product's (perceived) ability to meet needs or wants.
+Crucial for understanding markets is how utility changes with the quantity of products.
+Particularly, we need to know how the utility of one extra unit depends on the quantity.
+What is the difference in the usefulness of one more pack of milk when you buy one pack versus when you buy ten packs?
+It is generally assumed that this utility, called marginal utility, decreases with quantity.
+Marginal utility is the change in utility at any given amount of commodity X.
+If we quantify utility in monetary terms, we read out from this graph what quantity corresponds to a specific price.
+We illustrate this in the picture below.
+
+```{r utility,  echo = FALSE, out.width='100%', fig.align='center', fig.cap=" Marginal utility is the change in utility at any given amount of some commodity. Equating marginal utility with price then lets us derive what quantity is desired, i.e. the demand" }
+knitr::include_graphics(path = "figures/DemandCurve.svg")
+```
+
+#### Supply side
+
+Let us now turn to the supply side.
+The equivalent of the buyer's marginal utility for the supply side is the marginal cost of production.
+How much more would it cost to produce another item of the commodity depending on how much is produced?
+How do we expect this curve to look?
+Sometimes production per unit decreases with quantity.
+This is often true for commodities based on assembling raw products, i.e., the more raw product you buy, the cheaper you get them.
+For a local fisherman, the amount of fish may, on average, be determined by the amount of time you spend.
+If this is the only consideration, then one could expect a linear function.
+If, however, the cost of time increases, the longer you fish, i.e., the lost opportunity cost increases as you have to forsake more and more critical alternatives, you may get an increasing function.
+
+```{r suplier,  echo = FALSE, out.width='50%', fig.align='center', fig.cap="Supplier's side marginal utility gives desired production quantity based on expected sales price" }
+knitr::include_graphics(path = "figures/supplyCurve.svg")
+```
+
+#### Market dynamics
+
+We now have the components of a market, and we can look at the results and the dynamics of prices.
+Let's look at the following figure:
+
+```{r market-dynamic,  echo = FALSE, out.width='100%', fig.align='center', fig.cap="Market dynamics" }
+knitr::include_graphics(path = "figures/market-dynamic.png")
+```
+
+We assume that we start with the market not being in equilibrium.
+Both consumers (red) and suppliers (blue) have an expected price to base their consumption and production.
+If the price is higher than the intersection of supply and demand, consumers will buy less than producers supply.
+This will, in the next step, induce a reduction in price from the supplier side, which in turn increases consumption.
+This is an adaptive and iterative process.
+You can see that over time, the market system would tend towards an equilibrium (the grey arrows).
+Try to move the price (you can grab the orange line) down towards the equilibrium, the green point.
+Assume that something changes, new production technologies, or alternative goods that affect the marginal utility of the supplier and consumer, respectively.
+You can simulate this by moving e.g., the red or blue cross.
+Now the market should be off equilibrium again, but the adaptive process will ensure the price dynamics try to catch up with the new equilibrium.
+The green point acts as an attractor for the system, and because supply and demand curves can change over time.
+We can think of the green point as a dynamic attractor.
+
+#### Prices are the drivers!
+
+It is easy to get confused by the price on the Y-axis of the graph.
+This usually implies that price is the dependent variable, responding to the value on the X-axis, i.e., quantity.
+However, in reality, this is not the case here.
+The reason that the price is often shown on the y-axis is the historical development of the concept of supply and demand.
+Both consumers and suppliers will adjust the quantity bought or produced based on the expected prices.
+Thus price, on the y-axis, is the driver for the quantity bought or sold on the x-axis.
+Price elasticity is commonly used to describe the change in this behavior driven by prices.
+If elasticity is zero, then no change in quantity bought/produced occurs as price changes.
+Positive elasticity means more is bought/produced as prices increases and the opposite for negative elasticity.
+Understanding price elasticities can help understand to what degree markets can affect e.g., food security and nutrition among poor people.
+
+### Market equilibrium?
+
+In the classical economic textbooks, one can calculate the conditions for stability of prices under the assumption of complete market clearance.
+However, this approach is often unstable, and only under particular shapes of the demand and supply curves does the model converge to a stable price.
+A better perspective is to forget about equilibrium altogether and think of the market as an adaptive system.
+The primary assumption of equilibrium, i.e., perfect market clearance, is very seldom valid.
+Both producers and consumers adapt their strategies more stepwise rather than assuming they instantly understand consumers' or suppliers' responses.
+The adaptive process is much more stable in converging towards a price where supply and demand meet (called an attractor, the green point in the figure above).
+Note that due to shifting preferences, technological change, or other external factors, the supply and demand curves change.
+Thus, prices are, in practice, always dynamic.
+The adaptive change explains why markets are good at tracking this change.
+In high-speed markets, such as stock trading, where autonomous software makes decisions in nanoseconds, the prices reflect almost instant demand and supply changes.
+
+### Pros and Cons of markets
+
+Markets are, in theory, very good at distributed information processing.
+Without asking each consumer and supplier for what price they would be willing to trade, an ideal market can find this price through self-organization.
+One reason markets are so heralded among traditional economists is that a market under idealized circumstances will reach a price in which the sum of all benefits reaches an optimum.
+Another reason to like markets is that without them we would not have medicines, stable food and water supplies, and a lot of free time.
+There are also reasons to be careful about the impact of free markets.
+First, markets do not care about the distribution of buyers' and suppliers' incomes, whether you are poor or rich.
+Second, markets can create contexts that generate their own demand.
+Markets can be self-reinforcing and not only self-organizing.
+For example, the market for coal is currently self-reinforcing through monetary investments into political lobbying and marketing.
+Since speculations become tied to markets, there is an incentive to keep a market for its value, not for its purpose.
+Third, markets that aggregate over regions lose the feedback of the local resource production or the supply system.
+Demand does then not react to local supply anymore.
+This removes one of the potential advantages of markets.
+If demand and supply interact locally, increasing prices can potentially reflect a declining production base.
+
+```{r chain,  echo = FALSE, out.width='100%', fig.align='center', fig.cap="The chain of disconnection between abundances over time to price of fish. a) actual biomasses, b) catch landed in local harbor, c) regoinal market supply, d) total global catch of that species, e) actual price in retail " }
+knitr::include_graphics(path = "figures/MaskedMarkets.png")
+```
+
+Markets are, however, exceptionally good at aggregating information.
+Here is one example of using markets for sustainability: Transferable quotas.
+Assume that the government interferes in the practice of natural resource extraction and creates a fixed number of permits that can be traded.
+Each permit sets a maximum number of traps or nets.
+Each permit now becomes valuable.
+It gives the owner the right to make a profit from using their rights.
+The (in theory) ingenious idea is that the permit is only valuable if the resource is healthy.
+As owners age, their retirement capital is directly linked to the value of the permit.
+Due to the way markets work, the price will reflect the health of the natural resource.
+The problem of cheating is solved by a self-organizing mechanism.
+The owners will monitor themselves and others since cheating will decrease the resource and thus the value of everyone's permit.
+
+While this scheme has been somewhat successful in some contexts, there is one caveat that plagues the concept of transferable quotas: capitalism.
+The most wealthy one can buy more permits than others and effectively exclude the less wealthy individuals.
+While this may simplify the management (fewer stakeholders), it also creates social income inequalities in the communities.
+Often, the use of resources is the only option for low wealth, low education individuals.
+Another well-known method of markets for solving a sustainability issue is the EU Emission Trading System.
+The idea is here that price adjustment in the cost of carbon will 1) force companies to become more efficient, and 2) outcompete carbon-heavy activities and companies in favor of less carbon dependent ones.
+The market adjusts prices by the aggregated response of all big energy-using companies in the EU to the level of the price.
+
+## Taxes and subsidies
+
+Taxes are the primary source of revenue for governments.
+Taxes also can be used to change consumer behavior or to correct certain market failures.
+
+Consider a road or a beach: If few people use them, these resources appear to be public goods because they are not consumed when used.
+However, the activity of using them creates an externality or a consequence for others, namely congestion.
+These resources are, therefore, called 'congestion goods.' In theory, there will be a user intensity that creates a cost, the congestion, for other users.
+Imagine a crowded beach or traffic queues.
+To avoid congestion, economists recommend users are charged entrance fees to beaches and congestion tax for driving in cities.
+This fee has two purposes: It highlights that a person's use of that resource creates a cost for others.
+It also reduces the willingness to use the resource.
+Like markets, taxes can theoretically achieve the desired behavioral change.
+But also, like markets, taxes can be blind to injustices.
+Fixed taxes don't differentiate between people of wealth compared to people that struggle.
+The graph below illustrates some fundamentals related to taxes in the demand/supply context.
+In this case, we are looking at a production tax.
+The tax implies that producers will have to charge more for each quantity of the product they produce.
+This causes an upward shift in their marginal cost curves and an upward shift in the aggregate supply curve by an amount equal to the tax's size.
+Consumers are thus paying p~consumer~ and accordingly adjust their demand to this price.
+As shown in the graph, this causes a new market equilibrium to form at q~tax~.
+Producers thus charge a higher price p~consumer~ but are also forced to pay tax to the government.
+The tax payment size is illustrated by the orange area, which is the tax income collected by the government.
+
+\[Add video here\]
+
+As can be seen in the figure, both consumer surplus (green area) and producer surplus (violet area) are reduced with increased taxation (when the circle is dragged to the right).
+Who will be most affected depend on the slopes of the demand and supply curves.
+The slopes are usually referred to as the elasticity of demand and supply.
+The government can now use the tax collected to finance education, health, nature conservation, child benefits, or other things that enhance human well-being and equity.
+The part that goes to increased social well-being is highlighted when you click on the "Welfare benefit" checkbox.
+This illustrates the fundamental purpose of a tax as a means of income redistribution and a tool to affect consumers' behavior.
+This is explained by the difference in the small red and black dot on the x-axis (the quantity consumed with tax (black) and without tax (red)).
+
+### Introduction to subsidies 
+
+Education is a private benefit, but the whole society benefits from a higher education level in its population, i.e., a positive externality.
+This is the justification for almost all countries in the world to subsidize primary school.
+But what about biodiversity and ecosystem services (ES)?
+It is beneficial for farmers if aphids and weeds are controlled by "natural enemies," such as birds and insects so that the farmer doesn't need to use pesticides.
+If keeping suitable areas of land that promote natural pest controllers intact was only a private benefit, there would be no need for society to subsidize it.
+However, biodiversity and ES are also public goods since a large part of the benefits spread beyond the farmer's private land.
+Many beneficial species need a network of land-patches with favorable habitats to persist.
+Providing such habitats may reduce the amount of land that could be used for intensive agriculture and thus direct incomes.
+Such collective benefits are the targets of subsidies.
+On the other hand, collective costs, such as carbon emissions or nutrient leakage are the target of taxation.
+
+This justifies policies, both carrots, and sticks.
+Carrots are taxes and subsidies that leave the decision to farmers but try to influence behavior.
+Sticks are quantitative regulations such as prohibitions from using dangerous pesticides, especially near water.
+Carrots are, for example in Europe, the Common Agricultural Policy (CAP) that supports organic land-use which is beneficial for biodiversity and several ES.
+
+In the figure below, we envision a farmer who has a choice of using land for pastures or intensive agriculture.
+Assume that the demand (willingness-to-pay) for grasslands is substantially higher for the public (red line) as it generated biodiversity and natural pest control than for the individual farmer (green line) who would have to trade of land with direct income-generating agriculture.
+It is mainly an external benefit of keeping open landscapes with high biodiversity values.
+It is also a public good because the benefit is enjoyed in a way that does not reduce the benefits for others.
+We assume that the benefit from grasslands decreases with the increasing area since not all grassland is needed to produce the benefits.
+Thus in reality, the red/green line is probably non-linear in reality, but we keep it linear for simplicity.
+The cost is the opportunity cost, i.e., forgone net benefits of using the land for the best alternative management such as crop production.
+If the best alternative is to produce wheat, then the cost of maintaining an area of grassland is the cost of the grassland plus the forgone net benefit of producing wheat.
+A stony permanent natural pasture is of little value (to the farmer) for wheat, but the farmer may plant spruce or other trees if society does not pay her to produce grassland.
+In the figure below, the farmer has an area of land with some grassland (green thick line) and a lot of cropland (orange thick line).
+The farmer gets little marginal benefit from grasslands (green line) while the benefits increase linearly with cropland production (blue line).
+Subsidies linked to the amount of grassland production will change the balance of the cost/benefit.
+Dragging the black circle to the right increases the subsidy; watch the effect as the farmer incentive to change the land use from crop production to grasslands.
+
+\[insert video here\]
+
+The optimal subsidy depends on the benefit to society, the cost-effectiveness of the subsidies, and the benefits to the farmer.
+Subsidies will generate a consumer surplus for society and a producer surplus for the farmer(s) because some grasslands can be provided at a low cost.
+The implicit assumption in this reasoning is that farmers have property rights to decide on land-use.
+The state, therefore, has to 'bribe' the farmer to choose an alternative land-use.
+This is sometimes called the 'producer-receives-principle' (PRP).
+A reverse situation would be that the government only allowed land-use with little negative externalities and that the farmer would need to pay a fee to plant a particular crop such as wheat instead.
+This could be justified by the more common 'polluter-pays-principle' (PPP).
+However, according to the Swedish Constitution 2:15, farmers have the right to continue on-going land-use.
+If the government wants to interfere, they need to pay full compensation and can only do so if it is in the public's best interest.
+
+## Participation
+
+In the last decades, the participation-paradigm has grown in research, policy and practice of management and governance.
+This idea is also closely linked to the concepts of co-management and collaborative governance.
+The main goals of participation includes:
+
+-   Alignment of goals
+
+-   Providing conflict resolution arenas
+
+-   Understanding options and outcomes and the links between these
+
+-   Increased potential for innovation
+
+-   Increased legitimacy of institutions and compliance
+
+Participation is a process that benefits if solutions are seen as experiments and contribute to the collective learning process.
+The decision, implementation, and analysis process is repeatedly evaluated, refined, and re-implemented.
+To meet the goals of the participatory approach, it is useful to engage both direct stakeholders and involve people or groups from multiple levels of legislative bodies.
+The process can be facilitated by bridging organizations to make these connections.
+
+However, there are also arguments against it.
+Participation might lead to increased confrontation or polarization and slow down decision-making.
+Actors with much time or resources can hijack the process, and scientific knowledge can be diluted.
+What are the criteria for inclusion in the process, e.g., how to involve stakeholders that are recipients of diffuse externalities?
+Evidence for a working paradigm?
+
+
+```{r cinner, echo = FALSE, out.width='100%', fig.align='center', fig.cap="The effect of different management on biomass of fish stocks"}
+knitr::include_graphics(path = "figures/CoManCinner2012.png")
+```
+
+The participatory approach is a process used to manage a complex system.
+As alluded to above, both positive and negative effects can be anticipated.
+While rigorous analysis of the success or failure of this approach is still scarce, we will here look at some of the available data.
+In a critical study by Joshua Cinner et al. (2012), 42 co-management arrangements in artisanal fisheries across five countries were evaluated.
+Importantly, both ecological and social factors were included.
+In the figure above, they compared standing biomass in no-take fisheries closures, co-managed fisheries, and sites with no local management.
+Levels of fish biomass are demonstrably higher in co-managed areas than in comparable open-access reef fisheries, but no-take fishery closures have the highest expected biomass.
+When looking at the social side of co-management, the picture becomes more diverse in how it affects different aspects of the livelihoods and what factors are seen as causal for this:
+
+```{r cinner2,  echo = FALSE, out.width='100%', fig.align='center', fig.cap="Influence of social-ecological system attributes of reef-fishery comanagement outcomes across the 42 study sites in the Indo-Pacific relating to the local social-economic and political setting (S; orange); characteristics of resource users (U; yellow); and the governance system (GS; purple). The multinomial model provided separate estimates for respondents that perceived positive and detrimental livelihood outcomes from comanagement. Responses include the following: perceived beneficial livelihoods outcomes (A); perceived detrimental livelihood outcomes (B); reported compliance (C); and magnitude of observed fish biomass (kilograms per hectare) (D). Positive response estimates are indicated in green; negative are indicated in red; and evidence of no effect is indicated in blue. Filled circles indicate strong evidence of covariate effects; open circles denote estimates with an increased level of uncertainty as to their direction" }
+knitr::include_graphics(path = "figures/CinnerFig2.jpg")
+```
+
+In conclusion, this study showed that: (i) co-management is mostly successful at meeting social and ecological goals; (ii) co-management tends to benefit wealthier resource users; (iii) resource overexploitation is most strongly influenced by market access and users' dependence on resources; and (iv) institutional characteristics strongly influence livelihood and compliance outcomes, yet have little effect on ecological conditions.
+
+### Man and the Biosphere
+
+In another study by Schultz et al. (2011), presented a survey of 146 (!) biosphere reserves in 55 countries that were analyzed.
+Biosphere reserves are coordinated by the UNESCO Man and the biosphere program.
+They are institutional arrangements that promote the conservation of biological and cultural diversity as well as environmentally sustainable economic and socio-cultural development.
+In short, a biosphere region is focused around a highly valuable natural asset with zones of core protection, buffer, and transition that benefit from each other, while increasing the understanding and value of the core.
+In the survey, the authors asked the respondents to reflect on the effectiveness of both ecological and socioeconomic outcomes.
+
+```{r MaTable, echo = FALSE, out.width='100%', fig.align='center', fig.cap="Respondents were asked to self-evaluate the effectiveness of 7 factors (left column) for both conventional conservation as well as sustainable development. The score can be read as a relative index. Note how socioeconomic factors have gained much from the biosphere approach while the perceived goal of biodiversity conservation is rated much less favorable. Whether or not this is true can only be judged after long term monitoring of biodiversity"}
+knitr::include_graphics(path = "figures/MABTable.png")
+```
+
+**Effectiveness** of conventional conservation was positively affected by the participation of scientists but negatively affected by the participation of volunteers.
+Effectiveness in sustainable development goals was associated with participation by local inhabitants.
+Adaptive co-management practices were associated with a higher level of efficiency in achieving development goals.
+This higher effectiveness did not seem to be at the expense of biodiversity conservation.
+To conclude, participation processes have seen a big increase in use as a policy tool, and most evaluations point to an overall positive impact.
+However, the protocol of this process is still in development, and the learning process itself may affect relevant stakeholders at all levels to become more accustomed to implementing these.
+Scientifically, there is still much to understand in this complex undertaking.

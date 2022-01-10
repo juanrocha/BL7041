@@ -1,0 +1,12 @@
+---
+title: "Notes"
+author: "Juan Rocha"
+date: "11/21/2021"
+output: html_document
+---
+
+To-Dos:
+
+- Update references. Jon cite things by hand but there is no ref list at the end of the chapters. He has instead suggested readings but all was manual. Would be nice to compile a bib file and standardize refs through all chapters
+- Test if you can make the graphical annimations.
+- Draft a communications document with introductory emails for first day (intro to athena), instructions for modules release, quizes and assignments.

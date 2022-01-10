@@ -1,0 +1,181 @@
+---
+output: 
+  bookdown::rtf_document2:
+    global_numbering: FALSE
+
+## Note: remember to reference figures in bookdown, you need \@ref(fig:lable) using parentheses. The label is the name of the chunk
+---
+
+# Sustainability
+
+## The definition
+
+The sustainability concept had a defining moment in the Brundtland Commission by
+which it was coined as: *"meeting the needs of the present without compromising
+the ability of future generations to meet their own needs."* This definition
+frames most of the usage of the term sustainability today with some amendments.
+Today's globally accepted guiding principles are captured in the united nations'
+sustainable development goals, the SDG's. The SDG's particularly emphasize the
+just distribution of the cost and benefits of sustainability. The concept of
+sustainability, its history, and interpretation are as varied as there are
+people using it.
+
+Don't make the mistake of thinking this is a shortcoming, though! Think of
+sustainability as a process, a conversation method, or a guiding terrain in the
+social discourse about our common future and visions. Just as life itself,
+sustainability is a living concept that requires reflection, diversity,
+feedback, and experimentation. In general, the term sustainability is used at
+the level of societies, nations, or the human species, referring to a collective
+decision-making process. But sustainability also fundamentally applies to all
+levels of living organisms from the individual to life on earth. Sustainability
+is ultimately the quest for long term survival and living well.
+
+Beyond the minimum criteria of surviving, the term sustainability also refers to
+how to persist, i.e., the quality of survival, the degree of fulfillment of
+needs. Today, the focus is on human well-being and the distribution of
+well-being among all involved parties. Wellbeing is a problematic concept since
+well-being is highly individual and scale-dependent. How do we measure
+well-being, and for whom? Is well-being substitutable or absolute? How does the
+environment affect well-being? Is there optimal well-being? Will humans ever be
+content? What level of inequality in wellbeing is acceptable?
+
+The term *"resilience"* is related to sustainability and has been a highly
+influential concept. As used in sustainability science and practice, resilience
+embeds the processes that enable any system to persist through time while
+maintaining its capacity to adapt and renew itself without losing its identity.
+The latter is particularly relevant to any living system or society. Resilience
+is based on complex adaptive systems (CAS) perspective, as explicitly stated by
+the founder of the concept, C.S. Holling. In many ways, resilience and CAS refer
+to similar phenomena.
+
+## The process
+
+Sustainability is about making decisions so human systems' environmental impacts
+do not negatively shift the balance between benefits and harms. Such a shift
+will ultimately affect human well-being. The environmental system consists of
+physical and biological systems. From these, the human system receives benefits
+(food, water, shelter, beneficial climatic environment) and harms (diseases,
+natural catastrophes, and climatically challenging conditions). The unjust
+distribution between the benefits and harms is well known and has been a
+priority for the SDGs to recognize and address. What we call human well-being
+here is one of the more difficult concepts in sustainability science. It is
+still debated what measures best can guide sustainable decisions and future
+planning.
+
+A fundamental problem in defining well-being is that there is a trade-off
+between its measurability and relevance. Money is measurable but has been shown
+to only partly and indirectly correlate with human well-being. Aspects that
+humans value most, such as meaning, feeling loved, a predictable future, and
+opportunities, are much harder to quantify. Whatever the measure we agree on,
+the premise of sustainability is that any impact on the environmental system
+should not reduce future well-being (we will be looking much deeper into this
+later). This is a problematic criterion as the possible interactions by which
+activities can give feedback into the human system through benefits and harms
+are difficult to predict. This makes sustainability science essentially to be
+about:
+
+1)  understanding the consequences of activities and impacts on benefits and
+    harms, and
+2)  designing decision processes in which distributed knowledge, power and
+    observations need to be combined efficiently to maintain experienced
+    wellbeing over time.
+
+Sustainability can be seen as a state of a system in which the human system's
+maintenance does not negatively impact the environmental system's support. Or it
+can be thought of as the process to develop towards this state.
+
+```{r decisions, echo = FALSE, out.width='100%', fig.align='center', fig.cap="The human system in pink is a part of and embedded in the natural system. Activities and impacts on the natural system result in chain of interactions eventually affecting the benefits and harms that the human system experiences."}
+knitr::include_graphics(path = "figures/Basic_Decisions.svg")
+```
+
+Sustainability is about making smart decisions such that the human system can
+develop without the activities resulting in a change of balance between benefits
+and harms to reduce future wellbeing (Fig \@ref(fig:decisions)). Since
+decision-making is at the heart of sustainable development, we will look closer
+at a decision's basic components. Knowledge about decision-making highlights
+where and how information resides. We can also understand when and why
+collective decision-making is efficient. We will also use the components of
+decision-making as a general structure for this course.
+
+Individuals make decisions, sometimes with a formal protocol such as democratic
+voting. Some individuals are selected to positions of authority with decision
+powers. The individual's decision will still, in part, depend on her/his
+perspective and experiences. There are both positive effects and challenges with
+a diverse set of perspectives in the decision process. Personal biases will
+always be part of human decision-making, but there are methods to reduce their
+negative effects.
+
+Decision-making is a cognitive process by which we connect perception with
+activities in the physical world. **Perception** is the sensory information that
+individuals get from the environmental context. The information can also be
+acquired through channels such as literature and other media. **Activities** are
+the result of our cognitive process and also include physically affecting the
+environment and information sharing. Perceptions from our impression of the
+situation mediated by our past experiences and understanding. In this step,
+individual biases are already expressed. The bias is evident, for example, when
+politicians describe the same situation in very different terms.
+
+We then come to the three pillars of decisions: options, understanding, and
+objectives. **Options** depend on the assessment of the situation and an
+understanding of the world. Innovation is in part about expanding the set of
+options by a deeper understanding of the situation. **Understanding** is
+generated by personal experiences of interacting with the world and by using
+language to share experiences. It is useful to reflect on how very personal our
+understanding of the world is, and what this may mean for decision making. We
+will discuss this more in the section on "Perspectives." **Objectives** is what
+we use to select among the outcomes expected from different options. Our
+understanding forms the expected outcomes. The understanding can be either from
+past experiences or through reasoning and planning. To learn from reason is a
+relatively unique but not entirely exclusive trait for human beings. Thus,
+**decisions** are the cognitive process of selecting among the different options
+with expected outcomes and implementing these into **actions**.
+
+```{r embedded-decisions, echo=FALSE, out.width='100%', fig.align='center', fig.cap="Conceptual representation of a general decision process. There are six main capacities that make up the process. Perception is how we create a representation of the environment we are embedded in (light green). Perception then determines what options we perceive to be available. Innovation can occur when understanding generates new options. The activity is how we affect the environment we are embedded in. Understanding and objectives guide the decision. This scheme can also be seen at the level of groups or societies, where the capacities can reside in one or several individuals."}
+knitr::include_graphics(path = "figures/Embedded_Decisions.svg")
+```
+
+It is useful to have this individualistic perspective when discussing how
+collective action, management, governance, and power work. The world is complex
+and diverse, and the socio-ecological context shapes us. To solve a complex
+problem that requires cooperation, we can use the diversity of individual
+world-views to address this complexity. Figure \@ref(fig:embedded-decisions)
+illustrates that the decision process is embedded in a larger system, the
+environment we depend on for an individual or a group. Governments, companies,
+NGOs, and individuals can contribute to different parts of this scheme and
+influence each decision-making process component. For example, some act as
+vigilantes, shining light on situations that need addressing. Some work
+tirelessly to increase understanding among actors. Others provide the activities
+needed, such as doctors without borders. Governance today is about connecting
+the many parts of the social fabric, preferably under sustainable and just
+objective.
+
+Sustainability at the individual, the group, the nation, or the planet level, is
+about creating an efficient and just distributed decision system. When
+sustainability acts as an overarching objective, even a largely distributed
+decision system such as a human society can transform its operations.
+Sustainability science tries to understand our activities' consequences and give
+feedback on benefits and harms through the environmental system. One important
+insight in the last decades has been the importance of seeing the decisions,
+management, and governance as part of the process that generates understanding.
+This is called adaptive management of adaptive governance (Folke et al. 2005).
+
+Thus to summarise, sustainability science provides:
+
+1)  A definition of sustainability
+2)  The process of achieving it through decision making
+3)  The Scientific process to generate the understanding to guide the decisions
+    for sustainability
+
+If interested, more reading is found here:
+
+Dietz, Thomas, Elinor Ostrom, and Paul C. Stern. 2003. "The Struggle to Govern
+the Commons." Science 302 (5652): 1907--12.
+
+Social Problems: Continuity and Change (2016): 15.3 The Environment. University
+of Minnesota Libraries Publishing. Link to chapter:
+<https://open.lib.umn.edu/socialproblems/chapter/15-3-the-environment/>
+
+Schill, Caroline, John M. Anderies, Therese Lindahl, Carl Folke, Stephen
+Polasky, Juan Camilo Cárdenas, Anne-Sophie Crépin, Marco A. Janssen, Jon
+Norberg, and Maja Schlüter. 2019. "A More Dynamic Understanding of Human
+Behaviour for the Anthropocene." Nature Sustainability 2 (12): 1075--82.
